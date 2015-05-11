@@ -1,3 +1,3 @@
 # hello-world
 github tutorial. creating a repository.
-This is an update.
+I am RinkoWill. I am adventure-ready. Let's begin, ne?
